@@ -1,0 +1,274 @@
+Contents 11.08
+Introduction 30.08
+Part I: Fundamental Routing Concepts 42.08
+	Chapter 1 Characteristics of Routing Protocols 42.08
+		“Do I Know This Already?” Quiz 42.42
+		Foundation Topics 45.08
+		Routing Protocol Fundamentals 45.13
+		Network Technology Fundamentals 55.08
+		TCP/IP Fundamentals 60.42
+		Network Migration Strategies 75.08
+		Exam Preparation Tasks 81.08
+		Planning Practice 81.13
+		Review All the Key Topics 83.42
+		Complete the Tables and Lists from Memory 84.08
+		Definitions of Key Terms 84.13
+	Chapter 2 Remote Site Connectivity 86.08
+		“Do I Know This Already?” Quiz 86.42
+		Foundation Topics 89.08
+		Remote Connectivity Overview 89.13
+		MPLS VPN 90.42
+		GRE 92.08
+		DMVPN 95.08
+		Multipoint GRE 96.08
+		NHRP 98.08
+		IPsec 100.42
+		Exam Preparation Tasks 105.08
+		Planning Practice 105.13
+		Review All the Key Topics 108.08
+		Complete the Tables and Lists from Memory 108.38
+		Define Key Terms 108.42
+Part II: IGP Routing Protocols 110.08
+	Chapter 3 IPv6 Review and RIPng 110.08
+		“Do I Know This Already?” Quiz 110.42
+		Foundation Topics 114.08
+		Global Unicast Addressing, Routing, and Subnetting 115.42
+		IPv6 Global Unicast Addresses Assignment 126.42
+		Survey of IPv6 Addressing 132.42
+		Configuring IPv6 Addresses on Cisco Routers 139.08
+		RIP Next Generation (RIPng) 146.08
+		Exam Preparation Tasks 154.08
+		Planning Practice 154.13
+		Review All the Key Topics 157.08
+		Complete the Tables and Lists from Memory 157.38
+		Define Key Terms 157.42
+	Chapter 4 Fundamental EIGRP Concepts 160.08
+		“Do I Know This Already?” Quiz 160.42
+		Foundation Topics 164.08
+		EIGRP Fundamentals 164.13
+		EIGRP Neighborships 173.08
+		Neighborship over WANs 186.08
+		Exam Preparation Tasks 189.08
+		Planning Practice 189.13
+		Review All the Key Topics 191.42
+		Complete the Tables and Lists from Memory 192.38
+		Define Key Terms 192.42
+	Chapter 5 Advanced EIGRP Concepts 194.08
+		“Do I Know This Already?” Quiz 194.42
+		Foundation Topics 201.08
+		Building the EIGRP Topology Table 201.13
+		Building the IP Routing Table 211.08
+		Optimizing EIGRP Convergence 222.42
+		Route Filtering 233.42
+		Default Routes 258.42
+		Exam Preparation Tasks 264.08
+		Planning Practice 264.13
+		Review All the Key Topics 268.42
+		Complete the Tables and Lists from Memory 269.38
+		Define Key Terms 269.42
+	Chapter 6 EIGRP for IPv6 and Named EIGRP 272.08
+		“Do I Know This Already?” Quiz 272.42
+		Foundation Topics 275.08
+		EIGRP for IPv6 275.42
+		Named EIGRP 282.42
+		Exam Preparation Tasks 292.08
+		Planning Practice 292.13
+		Review All the Key Topics 294.42
+		Complete the Tables and Lists from Memory 295.38
+		Define Key Terms 295.42
+	Chapter 7 Fundamental OSPF Concepts 298.08
+		“Do I Know This Already?” Quiz 298.42
+		Foundation Topics 302.08
+		OSPF Review 302.13
+		OSPF Neighbors and Adjacencies on LANs 311.08
+		OSPF Neighbors and Adjacencies on WANs 320.08
+		Virtual Links 327.08
+		Exam Preparation Tasks 334.08
+		Planning Practice 334.13
+		Review All the Key Topics 337.42
+		Complete the Tables and Lists from Memory 338.08
+		Define Key Terms 338.13
+	Chapter 8 The OSPF Link-State Database 340.08
+		“Do I Know This Already?” Quiz 340.42
+		Foundation Topics 344.08
+		LSAs and the OSPF Link-State Database 344.13
+		The Database Exchange Process 360.42
+		Choosing the Best OSPF Routes 369.42
+		Exam Preparation Tasks 379.08
+		Planning Practice 379.13
+		Review All the Key Topics 382.08
+		Complete the Tables and Lists from Memory 382.38
+		Define Key Terms 382.42
+	Chapter 9 Advanced OSPF Concepts 384.08
+		“Do I Know This Already?” Quiz 384.42
+		Foundation Topics 389.08
+		Route Filtering 389.13
+		Route Summarization 395.42
+		Default Routes and Stub Areas 400.42
+		OSPF Version 3 415.08
+		Exam Preparation Tasks 431.08
+		Planning Practice 431.13
+		Review All the Key Topics 435.08
+		Complete the Tables and Lists from Memory 435.38
+		Define Key Terms 435.42
+Part III: Route Redistribution and Selection 438.08
+	Chapter 10 Route Redistribution 438.08
+		“Do I Know This Already?” Quiz 438.42
+		Foundation Topics 444.08
+		Route Redistribution Basics 444.13
+		Redistribution into EIGRP 449.08
+		Redistribution into OSPF 456.42
+		Redistribution with Route Maps and Distribute Lists 475.08
+		Issues with Multiple Redistribution Points 486.42
+		Exam Preparation Tasks 501.08
+		Planning Practice 501.13
+		Review All the Key Topics 506.42
+		Complete the Tables and Lists from Memory 507.08
+		Define Key Terms 507.42
+	Chapter 11 Route Selection 510.08
+		“Do I Know This Already?” Quiz 510.42
+		Foundation Topics 515.08
+		Cisco Express Forwarding 515.13
+		Policy-Based Routing 522.42
+		IP Service-Level Agreement 529.08
+		VRF-Lite 538.42
+		Exam Preparation Tasks 544.08
+		Planning Practice 544.13
+		Review All the Key Topics 547.42
+		Complete the Tables and Lists from Memory 548.08
+		Definitions of Key Terms 548.13
+Part IV: Internet Connectivity 550.08
+	Chapter 12 Fundamentals of Internet Connectivity 550.08
+		“Do I Know This Already?” Quiz 550.42
+		Foundation Topics 553.08
+		Provider-Assigned IPv4 Addresses 553.13
+		NAT 557.42
+		Exam Preparation Tasks 567.08
+		Planning Practice 567.13
+		Review All the Key Topics 570.08
+		Complete the Tables and Lists from Memory 570.38
+		Define Key Terms 570.42
+	Chapter 13 Fundamental BGP Concepts 572.08
+		“Do I Know This Already?” Quiz 572.42
+		Foundation Topics 578.08
+		The Basics of Internet Routing and Addressing 578.13
+		Introduction to BGP 584.08
+		Outbound Routing Toward the Internet 590.42
+		External BGP for Enterprises 602.42
+		Verifying the BGP Table 615.42
+		Injecting Routes into BGP for Advertisement to the ISPs 622.08
+		Exam Preparation Tasks 627.08
+		Planning Practice 627.13
+		Review All the Key Topics 630.42
+		Complete the Tables and Lists from Memory 631.42
+		Define Key Terms 632.08
+	Chapter 14 Advanced BGP Concepts 634.08
+		“Do I Know This Already?” Quiz 636.08
+		Foundation Topics 641.08
+		Internal BGP Between Internet-Connected Routers 641.13
+		Avoiding Routing Loops When Forwarding Toward the Internet 653.42
+		Route Filtering and Clearing BGP Peers 659.08
+		BGP Path Attributes and Best-Path Algorithm 670.08
+		Influencing an Enterprise’s Outbound Routes 676.42
+		Influencing an Enterprise’s Inbound Routes with MED 695.42
+		Exam Preparation Tasks 700.08
+		Planning Practice 700.13
+		Review All the Key Topics 705.08
+		Complete the Tables and Lists from Memory 705.42
+		Define Key Terms 706.08
+	Chapter 15 IPv6 Internet Connectivity 708.08
+		“Do I Know This Already?” Quiz 708.42
+		Foundation Topics 711.08
+		IPv6 Internet Connections 711.13
+		BGP Support for IPv6 716.42
+		Exam Preparation Tasks 734.08
+		Planning Practice 734.13
+		Review All the Key Topics 737.42
+		Complete the Tables and Lists from Memory 738.38
+		Define Key Terms 738.42
+Part V: Router and Routing Security 740.08
+	Chapter 16 Fundamental Router Security Concepts 740.08
+		“Do I Know This Already?” Quiz 740.42
+		Foundation Topics 743.08
+		Elements of a Router Security Policy 743.13
+		Access Control Lists 744.42
+		Management Plane Security 747.42
+		Exam Preparation Tasks 768.08
+		Planning Practice 768.13
+		Review All the Key Topics 772.08
+		Complete the Tables and Lists from Memory 773.08
+		Define Key Terms 773.13
+	Chapter 17 Routing Protocol Authentication 776.08
+		“Do I Know This Already?” Quiz 776.42
+		Foundation Topics 779.08
+		Authentication Methods 779.13
+		EIGRP Authentication 783.08
+		OSPF Authentication 790.42
+		BGP Authentication 798.42
+		Exam Preparation Tasks 803.08
+		Planning Practice 803.13
+		Review All the Key Topics 806.08
+		Complete the Tables and Lists from Memory 806.38
+		Define Key Terms 806.42
+Part VI: Final Preparation 808.08
+	Chapter 18 Final Preparation 808.08
+		Tools for Final Preparation 808.42
+		Suggested Plan for Final Review/Study 811.42
+		Summary 815.08
+Part VII: Appendixes 818.08
+	Appendix A: Answers to the “Do I Know This Already?” Quizzes 818.08
+	Appendix B: ROUTE Exam Updates 844.08
+	Appendix C: Conversion Tables 848.08
+Index 851.08
+	A 851.13
+	B 853.08
+	C 854.08
+	D 856.42
+	E 858.08
+	F 860.42
+	G 861.08
+	H 861.38
+	I 861.42
+	J-K 864.38
+	L 864.42
+	M 865.08
+	N 867.08
+	O 868.42
+	P 869.42
+	Q 872.42
+	R 872.08
+	S 875.42
+	T 877.08
+	U 878.08
+	V 878.42
+	W-X-Y-Z 879.08
+CD-Only 882.08
+	Appendix D: Memory Tables 882.08
+	Appendix E: Memory Tables Answer Key 900.08
+	Appendix F: Completed Planning Practice Tables 918.08
+	Appendix G: Study Planner 976.08
+	Glossary 980.08
+		A 980.13
+		B 982.41
+		C 983.41
+		D 985.08
+		E 987.41
+		F 989.08
+		G 989.41
+		H 990.08
+		I 990.41
+		K 992.37
+		L 992.41
+		M 994.41
+		N 996.08
+		O 998.08
+		P 999.41
+		Q 1002.37
+		R 1002.41
+		S 1004.41
+		T 1007.41
+		U 1009.41
+		V 1010.08
+		W 1010.41
+		Z 1011.08
+Where are the companion content files? 1011.99
