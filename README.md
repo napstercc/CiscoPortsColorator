@@ -2,8 +2,8 @@
 Creates an image of the ports status based on the running configuration file
 
 ## Modules used
-CiscoConfParse
-PIL
+- CiscoConfParse
+- PIL
 
 ## To Do
 - [ ] Automatically create 24 or 48 ports images based on config
